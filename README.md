@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Sujitha
 # 💫 About Me:
-🔭 Java Developer.<br>🌱 Continuously learning and building new skills.<br>👯 Exploring opportunities to learn and contribute.<br>🤝 Always happy to learn from the developer community.<br>⚡ Fun fact: I believe the best way to learn is by building.
+🔭 Java Developer.<br>🌱 Continuously learning and building new skills.<br>👯 Exploring opportunities to learn and contribute.<br>🤝 Always happy to learn from the developer community.<br>⚡ I believe the best way to learn is by building.
 
 
 ## 🌐 Socials:
