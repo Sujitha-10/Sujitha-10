@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Sujitha
 # 💫 About Me:
-🔭 Currently working on Java & Spring Boot projects.<br>🌱 Continuously learning and building new skills.<br>👯 Open to collaborating on interesting Java projects.<br>🤝 Always happy to learn from the developer community.<br>📫 Connect with me on LinkedIn: www.linkedin.com/in/sujitha-n-2038b9212<br>⚡ Fun fact: I believe the best way to learn is by building.
+🔭 Java Developer.<br>🌱 Continuously learning and building new skills.<br>👯 Open to collaborating on interesting Java projects.<br>🤝 Always happy to learn from the developer community.<br>📫 Connect with me on LinkedIn: www.linkedin.com/in/sujitha-n-2038b9212<br>⚡ Fun fact: I believe the best way to learn is by building.
 
 
 # 💻 Tech Stack:
